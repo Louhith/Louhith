@@ -4,8 +4,8 @@
 <div>
 <!--   <img alt="Kunal Keshan Profile" align="right" width="30%" src="https://avatars.githubusercontent.com/u/68579547?v=4" /> -->
   <p align="center">
-  Hey there, I'm Louhith U! I'm a student at SRMIST pursuing Electronics and Communications Engineering. I'm passionate about Web development and creating solutions through websites for businesses and individuals in need. On the side, I also write, I create YouTube videos and share knowledge about web development.
+  Hey there, I'm Louhith U! I'm a student at SRMIST pursuing Electronics and Communications Engineering. I'm passionate about Data Science and creating solutions through data for businesses and individuals in need. On the side, I am into investing and learning about the stock market.
   </p>
-  <h3 align="center"> Full-Stack Web Developer | Writer </h3>
+  <h3 align="center"> Data Analyst | Django Developer </h3>
 </div>
                                                                                                                       
