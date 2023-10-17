@@ -6,6 +6,6 @@
   <p align="center">
   Hey there, I'm Louhith U! I'm a student at SRMIST pursuing Electronics and Communications Engineering. I'm passionate about Data Science and creating solutions through data for businesses and individuals in need. On the side, I am into investing and learning about the stock market.
   </p>
-  <h3 align="center"> Data Analyst | Django Developer </h3>
+  <h3 align="center"> Data Analyst | Capital Markets Nerd </h3>
 </div>
                                                                                                                       
